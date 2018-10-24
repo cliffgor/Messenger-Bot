@@ -1,0 +1,18 @@
+{
+  "name": "bot-tutorial",
+  "version": "1.0.0",
+  "description": "A messenger chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "Cliff Gor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
